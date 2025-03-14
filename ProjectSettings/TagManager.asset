@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerUI
+  - Item
+  - Checkpoints
+  - Wall
+  - Slime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Collision
+  - Water
+  - UI
+  - Enviroment
+  - Car
+  - Cow
+  - Surface
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Skidmarks
+    uniqueID: 2842618747
+    locked: 0
+  - name: Car
+    uniqueID: 303821183
+    locked: 0
+  - name: Particals
+    uniqueID: 2197382289
+    locked: 0
